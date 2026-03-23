@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋%20Hi,%20I'm%20Xuan&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋%20Hi,%20I'm%20Chuong&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55&descAlign=50)
 
 ## 👨‍💻 About Me
 - 🔭 Currently studying and working with **Web Development / Backend**
