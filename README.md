@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me
 - 🔭 Currently studying and working with **Web Development / Backend**
-- ⚡ Hobbies: coding, gaming, and gym 💪
+- ⚡ Hobbies: coding, gaming, and comunicate 💪
 
 ---
 
